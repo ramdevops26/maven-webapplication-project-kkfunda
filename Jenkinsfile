@@ -43,3 +43,4 @@ node {
         "http://16.4.79.52:8080/manager/text/deploy?path=/maven-web-application&update=true"
     """
 }
+}
